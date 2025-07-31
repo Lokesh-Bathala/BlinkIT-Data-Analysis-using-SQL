@@ -1,6 +1,6 @@
 # 📊 BlinkIT Grocery Sales Analysis (SQL)
 
-This project presents a comprehensive analysis of BlinkIT's grocery data using SQL for data aggregation and Power BI for visualization. The analysis aims to uncover insights related to sales performance, customer satisfaction, and inventory behavior using advanced SQL queries and KPI tracking.
+This project presents a comprehensive analysis of BlinkIT's grocery data using SQL for data aggregation. The analysis aims to uncover insights related to sales performance, customer satisfaction, and inventory behavior using advanced SQL queries and KPI tracking.
 
 ---
 
