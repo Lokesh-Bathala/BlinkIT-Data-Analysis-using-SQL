@@ -88,7 +88,7 @@ To analyze BlinkIT’s grocery sales data and deliver actionable insights to hel
 ├── 📄 BlinkIT Grocery Data.csv ← Original dataset
 ├── 📄 BlinkIT SQL QUERY.sql ← All analysis SQL queries
 ├── 📄 README.md ← This file
-└── 📊 (Optional) Power BI Dashboard.pbix
+
 
 
 ---
@@ -97,15 +97,12 @@ To analyze BlinkIT’s grocery sales data and deliver actionable insights to hel
 
 1. Import the CSV into your SQL tool (e.g., MySQL, SQL Server, Azure Data Studio)
 2. Run `BlinkIT SQL QUERY.sql`
-3. Optionally, connect Power BI to your SQL engine or use `.csv` directly
-4. Visualize KPIs using cards, bar charts, and pivot tables
 
 ---
 
 ## 🧰 Technologies Used
 
 - SQL Server / MySQL
-- Power BI
 - GitHub for version control
 - Excel/CSV for data source
 
